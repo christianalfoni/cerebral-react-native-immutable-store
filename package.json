@@ -1,0 +1,33 @@
+{
+  "name": "cerebral-react-native-immutable-store",
+  "version": "0.1.0",
+  "description": "A Cerebral package for React Native and Immutable Store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianalfoni/cerebral-react-native-immutable-store.git"
+  },
+  "keywords": [
+    "react",
+    "immutable",
+    "cerebral"
+  ],
+  "author": "Christian Alfoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christianalfoni/cerebral-react-native-immutable-store/issues"
+  },
+  "homepage": "https://github.com/christianalfoni/cerebral-react-native-immutable-store",
+  "peerDependencies": {
+    "react-native": "^0.8.0",
+    "immutable-store": "^0.5.2",
+    "events": "^1.0.2"
+  },
+  "dependencies": {
+    "cerebral": "^0.13.5"
+  }
+}
